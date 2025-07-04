@@ -1,0 +1,17 @@
+.home {
+    background-color: #2859DF; /* Blue */
+    color: white;
+    min-height: max-content; /* Reduce height by 100px, adjust as needed */
+    width: 100vw;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start; /* Align to top */
+    align-items: center;
+    padding: 40px;
+    padding-top: 150px; /* Adjust for fixed navbar height */
+    
+}
+.para{
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
